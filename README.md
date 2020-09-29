@@ -1,2 +1,2 @@
-- I'm working on Python web projects and playing with Go
+- I'm working on Python web projects and playing with Go ![image title](https://rushter.com/counter.svg)
 - 📫 How to reach me: bobrasio@gmail.com, [STEAM](https://steamcommunity.com/id/pibux), [Reddit](https://www.reddit.com/user/pibuxd), Discord: 𝔹𝕠𝕓𝕚𝕜#4810 👍

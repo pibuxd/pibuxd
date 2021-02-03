@@ -1,8 +1,8 @@
 ## Hi I'm PiBu
 
-- I'm working on Algorithms
+- I'm working on algorithms
 - I'm creating small Go and Python projects
-- 📫 How to reach me: bobrasio@gmail.com, Discord: 𝔹𝕠𝕓𝕚𝕜#4810 👍
+- 📫 How to reach me: bobrasio@gmail.com, Discord: Bobik#4810
 
 <p align = "left">
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.codesamplez.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fgolang.png&f=1&nofb=1" alt="Go" width="100" height="100"

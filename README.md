@@ -1,7 +1,8 @@
 ## Hi I'm PiBu
 
 - I'm working on algorithms
-- I'm creating small Go and Python projects
+- I'm creating small Python and Go projects
+- I'm learning Vue.js
 - 📫 How to reach me: bobrasio@gmail.com, Discord: Bobik#4810
 
 <p align = "left">

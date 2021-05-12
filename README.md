@@ -5,4 +5,4 @@
 - I'm learning Flask and Vue.js
 - 📫 How to reach me: bublikpiotr@gmail.com, Discord: Bobik#4810
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd&theme=dark&hide=vim&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd&theme=dark&hide=Vim script&layout=compact" />

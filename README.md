@@ -1,8 +1,8 @@
 ## Hi I'm PiBu
 
-- I'm working on algorithms
+- I'm working on algorithms, mostly CodeForces
 - I'm creating Python and Go projects
-- I'm learning FastAPI and Vue.js
+- I'm learning Flask and Vue.js
 - 📫 How to reach me: bublikpiotr@gmail.com, Discord: Bobik#4810
 
 <p align = "left">
@@ -11,3 +11,4 @@
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&f=1&nofb=1" alt="Python" width="100" height="100"
   style="float: left;" />
 </p>
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd)[top-langs]

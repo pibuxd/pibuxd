@@ -11,4 +11,4 @@
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&f=1&nofb=1" alt="Python" width="100" height="100"
   style="float: left;" />
 </p>
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd)[top-langs]
+!(top-langs)[https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd]

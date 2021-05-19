@@ -2,7 +2,9 @@
 
 - I'm working on algorithms, mostly CodeForces
 - I'm creating Python and Go projects
-- I'm learning Flask and Vue.js
-- 📫 How to reach me: bublikpiotr@gmail.com, Discord: Bobik#4810
+- 📫 How to reach me: 
+- - mail: bublikpiotr@gmail.com
+- - CodeForces: [bobrasio](https://codeforces.com/profile/bobrasio)
+- - Discord: Bobik#4810
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pibuxd&theme=onedark&layout=compact&hide=Vim script" />

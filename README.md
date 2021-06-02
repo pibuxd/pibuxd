@@ -1,6 +1,6 @@
 ## Hi I'm PiBu
 
-- I'm working on algorithms, mostly CodeForces
+- I'm working on algorithms
 - I'm creating Python and Go projects
 - 📫 How to reach me: 
 - - mail: bublikpiotr@gmail.com

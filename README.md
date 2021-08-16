@@ -1,7 +1,9 @@
 ## Hi I'm PiBu
 
-- I'm working on algorithms
+- I'm mostly working on algorithms
 - I'm creating Python and Go projects
+- I really like to challenge myself in C
+- 
 - 📫 How to reach me: 
 - - mail: bublikpiotr@gmail.com
 - - Discord: Bobik#4810

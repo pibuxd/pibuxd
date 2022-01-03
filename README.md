@@ -4,4 +4,4 @@
 
 - 📫 How to reach me: 
 - - mail: bublikpiotr@gmail.com
-- - Discord: Bobik#4810
+- - Discord: PiBu#3132

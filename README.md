@@ -1,7 +1,5 @@
-## Hi I'm PiBu
+## Hi I'm Piotr Bublik
 
-- I'm working on competitive programming right now
-
-- 📫 How to reach me: 
+- - second year student right now
 - - mail: bublikpiotr@gmail.com
 - - Discord: PiBu#3132

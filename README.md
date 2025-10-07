@@ -1,6 +1,6 @@
 ## Hi I'm Piotr Bublik
 
-- - second year student right now
+- - third year student CS MIMUW
 - - mail: bublikpiotr@gmail.com
 - - Discord: PiBu#3132
 - - CodeForces: [pibu](https://codeforces.com/profile/pibu)
